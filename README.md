@@ -14,7 +14,7 @@ The NUDM Tech Challenge is a 2 week long hack-a-thon where students aim to solve
 
 Kickoff: Monday 1/21/18
 
-Bounteous Office Hours: Monday 1/28/19 5:30pm-8:30pm Annenberg G30 - Pizza & Salda will be provided!
+Bounteous Office Hours: Monday 1/28/19 5:30pm-8:30pm Annenberg G30 - Pizza, Salad & Drinks will be provided!
 
 Submission Deadline: Thursday 1/31/19 6pm
 
