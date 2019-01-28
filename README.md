@@ -40,18 +40,23 @@ Video Chat details:
 Zoom can be used to communicate with Bounteous employees, The following Zoom links will open up at 5pm! Zoom is a great product with screen sharing features!
 
 Eugene Catrambone (Analytics/Data Science) | https://www.linkedin.com/in/eugenecatrambone
+
 https://bounteous.zoom.us/j/244948450
  
 Courtney Braafhart | https://www.linkedin.com/in/courtneybraafhart
+
 https://bounteous.zoom.us/j/569772101
  
 Pat Noonan | https://www.linkedin.com/in/pnoonan
+
 https://bounteous.zoom.us/j/217102264
  
 Dmitry Rozental | https://www.linkedin.com/in/dmitry-rozental-mba-73b04428
+
 https://bounteous.zoom.us/j/856059074
  
 Ali Moussa | https://www.linkedin.com/in/ali-moussa-36b3783b
+
 https://bounteous.zoom.us/j/689932430
 
 
