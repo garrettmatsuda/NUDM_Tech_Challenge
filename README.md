@@ -22,7 +22,7 @@ Final Presentations: Friday 2/1/19 12pm-2pm
 
 # Office Hours Details:
 
-Tech Challenge office hours are Monday 1/28/19 5:30pm-8:30pm in Annenberg G30!! There will be Lou Malnati’s Pizza, Salad and Drinks provided 
+Tech Challenge office hours are Monday 1/28/19 5:30pm-8:30pm in Annenberg G30!! There will be Lou Malnati’s Pizza, Salad and Drinks provided thanks to Bounteous!
 
 Unfortunately due to ridiculous amount that it snowed last night Bounteous won’t be there in person. However, they will be there virtually!
 
