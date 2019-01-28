@@ -20,6 +20,41 @@ Submission Deadline: Thursday 1/31/19 6pm
 
 Final Presentations: Friday 2/1/19 12pm-2pm
 
+# Office Hours Details:
+
+Tech Challenge office hours are Monday 1/28/19 5:30pm-8:30pm in Annenberg G30!! There will be Lou Malnati’s Pizza, Salad and Drinks provided 
+
+Unfortunately due to ridiculous amount that it snowed last night Bounteous won’t be there in person. However, they will be there virtually!
+
+To attend office hours you can do two things:
+
+1. Come to Annenberg G30 - I’ll be there with food and to offer other support and help! It should be a great workspace even if you’re working on non-Tech Challenge work
+2. Video chat Bounteous on your own.
+
+Essential:
+
+Feel free to ask any range of questions from high level, design, planning questions to more nitty-gritty technical questions! Also ask questions about the type of job/internship opportunities available at Bounteous!
+
+Video Chat details:
+
+Zoom can be used to communicate with Bounteous employees, The following Zoom links will open up at 5pm! Zoom is a great product with screen sharing features!
+
+Eugene Catrambone (Analytics/Data Science) | https://www.linkedin.com/in/eugenecatrambone
+https://bounteous.zoom.us/j/244948450
+ 
+Courtney Braafhart | https://www.linkedin.com/in/courtneybraafhart
+https://bounteous.zoom.us/j/569772101
+ 
+Pat Noonan | https://www.linkedin.com/in/pnoonan
+https://bounteous.zoom.us/j/217102264
+ 
+Dmitry Rozental | https://www.linkedin.com/in/dmitry-rozental-mba-73b04428
+https://bounteous.zoom.us/j/856059074
+ 
+Ali Moussa | https://www.linkedin.com/in/ali-moussa-36b3783b
+https://bounteous.zoom.us/j/689932430
+
+
 # Problem Statements:
 
 1. Due to new regulations in the nonprofit industry CIS of Chicago’s employees must track their hours accurately. Develop a solution to address this.
