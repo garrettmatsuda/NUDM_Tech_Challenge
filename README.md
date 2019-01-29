@@ -41,7 +41,6 @@ Zoom can be used to communicate with Bounteous employees, The following Zoom lin
 
 To get started you can join the Zoom conference with the Bounteous team where they will pair you with someone who can best answer your questions or you can just jump in with one of the analysts directly!
 
-
 Bounteous Team | https://bounteous.zoom.us/j/501298950
 
 Eugene Catrambone (Analytics/Data Science) | https://www.linkedin.com/in/eugenecatrambone
@@ -60,6 +59,7 @@ Dmitry Rozental | https://www.linkedin.com/in/dmitry-rozental-mba-73b04428
 
 https://bounteous.zoom.us/j/856059074
 
+Email Bounteous with any questions: gina.sorrels@bounteous.com
 
 # Problem Statements:
 
