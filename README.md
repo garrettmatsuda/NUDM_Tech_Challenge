@@ -18,7 +18,9 @@ Bounteous Office Hours: Monday 1/28/19 5:30pm-8:30pm Annenberg G30 - Pizza, Sala
 
 Submission Deadline: Thursday 1/31/19 6pm
 
-Final Presentations: Friday 2/1/19 12pm-2pm Norris Big Ten Room (104)
+Final Presentations: Friday 2/1/19 12:30pm-2:30pm Norris Big Ten Room (104)
+
+Contact 650-888-3761 with any questions!
 
 # Submitting Work
 
