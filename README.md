@@ -26,6 +26,8 @@ Instructions are provided in the following Google Drive. Please also submit your
 
 https://drive.google.com/open?id=1jyzgY8YqgbSwkuutfAcMLXgOYmZmXBhg
 
+We will reach out and notify everyone who submits to present. We're anticipating that we will have time for all submissions to present on Friday!
+
 # Final Presentations
 
 Final presentations should explain and demonstrate how your solution works and how it addresses your chosen problem. No slide deck is necessary, however if you may use them.
