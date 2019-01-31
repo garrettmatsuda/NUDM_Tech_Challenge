@@ -28,7 +28,7 @@ https://drive.google.com/open?id=1jyzgY8YqgbSwkuutfAcMLXgOYmZmXBhg
 
 # Final Presentations
 
-Final presentations should explain and demonstrate how your solution works and how it addresses your chosen problem.
+Final presentations should explain and demonstrate how your solution works and how it addresses your chosen problem. No slide deck is necessary, however if you may use them.
 
 In addition, reference to the categories defined in the rubric will help the judging committee to better understand your work.
 
