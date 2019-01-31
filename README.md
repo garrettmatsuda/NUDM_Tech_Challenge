@@ -18,13 +18,19 @@ Bounteous Office Hours: Monday 1/28/19 5:30pm-8:30pm Annenberg G30 - Pizza, Sala
 
 Submission Deadline: Thursday 1/31/19 6pm
 
-Final Presentations: Friday 2/1/19 12pm-2pm
+Final Presentations: Friday 2/1/19 12pm-2pm Norris Big Ten Room (104)
 
 # Submitting Work
 
 Instructions are provided in the following Google Drive. Please also submit your work to this Drive!
 
 https://drive.google.com/open?id=1jyzgY8YqgbSwkuutfAcMLXgOYmZmXBhg
+
+# Final Presentations
+
+Final presentations should explain and demonstrate how your solution works and how it addresses your chosen problem.
+
+In addition, reference to the categories defined in the rubric will help the judging committee to better understand your work.
 
 # Problem Statements:
 
