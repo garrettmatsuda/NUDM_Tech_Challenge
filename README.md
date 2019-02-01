@@ -26,7 +26,7 @@ Contact 650-888-3761 with any questions!
 
 Instructions are provided in the following Google Drive. Please also submit your work to this Drive!
 
-https://drive.google.com/open?id=1jyzgY8YqgbSwkuutfAcMLXgOYmZmXBhg
+https://drive.google.com/open?id=1rbYFloQNYKpmpYNkpEbBfoKK3wkbjcaG
 
 You may continue to work on your submission even after you have submitted. We just need an idea of the number of teams who will be presenting!
 
