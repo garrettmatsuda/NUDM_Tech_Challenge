@@ -16,7 +16,7 @@ Kickoff: Monday 1/21/18
 
 Bounteous Office Hours: Monday 1/28/19 5:30pm-8:30pm Annenberg G30 - Pizza, Salad & Drinks will be provided!
 
-Submission Deadline: Thursday 2/20/19 at midnight
+Submission Deadline: Wednesday 2/20/19 at midnight
 
 Final Presentations: Friday 2/22/19 1pm-3pm Norris Big Ten Room (104)
 
